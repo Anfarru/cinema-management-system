@@ -16,4 +16,4 @@ Technical requirements:
 * An actual database (like Postgres) should be used, running in a docker container
 * The test should not mock the database layer and should use the same DB type as the original code (with test containers)
 
-Swagger documentation link: http://localhost:8080/swagger-ui.html
+Swagger documentation link (requires project to be running): http://localhost:8080/swagger-ui.html
